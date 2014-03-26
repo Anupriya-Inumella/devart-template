@@ -38,9 +38,7 @@ public void setup() {
 
 public void draw() {
   background(0);
-
-  // draw triangle
-  //triangle(mouseX, mouseY-6, mouseX, mouseY+6, mouseX+30, mouseY);
+    
   image(s,mouseX,mouseY+6);
   
   int i = 0;
