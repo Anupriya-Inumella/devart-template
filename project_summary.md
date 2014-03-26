@@ -1,5 +1,5 @@
 # Project Title
-Gravity
+GRAVITY
 
 ## Authors
 - Anupriya, https://github.com/Anupriya-Inumella
