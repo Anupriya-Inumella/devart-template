@@ -1,4 +1,5 @@
 We need 3 arrays to store x,y,speed of each star we draw. 
+
 int i = 0;
   while(i < 100) {  
     x[i] = random(0, width);
