@@ -1,10 +1,10 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google Maps api"
         ],
         "platforms": [
-            "insert platforms"
+            "processing"
         ],
         "toolkits": [
             "insert toolkits"
